@@ -31,7 +31,7 @@ Profile Settings for webhook customization.
 
 Contributors names and contact info
 
-[@Pickleft](https://twitter.com/Pickleft) / *Pickleft#1853
+[@Pickleft](https://twitter.com/Pickleft) / Pickleft#1853
 
 ## Version History
 
