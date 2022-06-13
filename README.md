@@ -1,6 +1,7 @@
 # EasyHook
 
 In-Depth Control of your webhook.
+   * Support me By Pressing "Star" On Repo
 
 ## Description
 
